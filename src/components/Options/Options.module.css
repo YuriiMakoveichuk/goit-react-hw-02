@@ -1,0 +1,17 @@
+.options {
+  padding: 10px 30px;
+  display: flex;
+  gap: 10px;
+}
+
+.optionsBtn {
+  padding: 8px;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+.optionsBtn:hover {
+  background-color: aquamarine;
+  color: fuchsia;
+  border: 2px solid rgb(12, 230, 41);
+}
